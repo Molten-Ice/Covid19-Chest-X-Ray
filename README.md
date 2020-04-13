@@ -13,17 +13,8 @@ Here I will be documenting the AI projects I am working on
 
 * **James Davey** - *head of technology at* [WarwickAI](https://warwickai.ml/)
 
-## Setup
+### Setup
 
-Connecting to [Azure](https://course.fast.ai/start_azure.html) NC6 DVSM
+Using an [Azure](https://course.fast.ai/start_azure.html) NC6 DVSM
 
-```python
-ssh -L 8888:127.0.0.1:8888 jdavey@ip_address
-```
 
-Opening Jupyter notebook
-
-```python
-cd notebooks
-jupyter notebook --no-browser
-```
