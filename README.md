@@ -1,7 +1,5 @@
 # Covid19 Chest X-Ray Classifier
 
-Here I will be documenting the AI projects I am working on
-
 ## Overview
 
 ### Built With
