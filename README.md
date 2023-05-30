@@ -1,5 +1,7 @@
 # Covid19 Chest X-Ray Classifier
 
+[Article](https://medium.com/warwick-artificial-intelligence/diagnosing-covid-19-using-chest-x-rays-with-fast-ai-97-4-accuracy-4194f216ec0d)
+
 ## Overview
 
 ### Built With
